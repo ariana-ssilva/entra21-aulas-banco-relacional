@@ -22,3 +22,6 @@ A cloud database is a database that typically runs on a cloud computing platform
 These interactions are the example of a traditional database where data is of one type-that is textual. In advancement of technology has led to new applications of database systems. New media technology has made it possible to store images, video clips. These essential features are making multimedia databases. 
 
 Nowadays, people are becoming smart – before taking any decisions they analyze facts and figures related to it, which come from these databases. As the databases have made it easier to manage information, we are able to catch criminals and do deep research.
+
+##  DBMS (Database Management System) concepts
+A database management system (or DBMS) is essentially nothing more than a computerized data-keeping system. Users of the system are given facilities to perform several kinds of operations on such a system for either manipulation of the data in the database or the management of the database structure itself. Database Management Systems (DBMSs) are categorized according to their data structures or types.
