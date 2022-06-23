@@ -14,10 +14,10 @@ In a database, data is organized into tables consisting of rows and columns and 
 * <b>Relational Database</b>
 A relational database is made up of a set of tables with data that fits into a predefined category.
  
-<b>Distributed Database</b>
+* <b>Distributed Database</b>
 A distributed database is a database in which portions of the database are stored in multiple physical locations, and in which processing is dispersed or replicated among different points in a network. 
  
-<b>Cloud Database</b>
+* <b>Cloud Database</b>
 A cloud database is a database that typically runs on a cloud computing platform. Database service provides access to the database. Database services make the underlying software-stack transparent to the user.
 These interactions are the example of a traditional database where data is of one type-that is textual. In advancement of technology has led to new applications of database systems. New media technology has made it possible to store images, video clips. These essential features are making multimedia databases. 
 
