@@ -12,11 +12,12 @@ CREATE TABLE patient (
     name_father                 TEXT,
     email                       TEXT         UNIQUE,
     patology                    TEXT         NOT NULL,
-    id_address                  INTEGER      REFERENCES address_info (id),
-    address_info_street_address TEXT         REFERENCES address_info (street_address),
-    address_info_number_addres  TEXT         REFERENCES address_info (number_address),
-    address_info_zip_code       TEXT         REFERENCES address_info (zip_code),
-    address_info_city           TEXT         REFERENCES address_info (city),
-    address_info_state          TEXT         REFERENCES address_info (state),
-    address_info_country                     REFERENCES address_info (country) 
-);
+    street_address        TEXT,
+    number_address        TEXT,
+    neighbourhood_address TEXT,
+    city_address          TEXT,
+    state_address         TEXT,
+    country_address       TEXT,
+    zipcode_address       TEXT
+   
+   );
